@@ -1,0 +1,14 @@
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\StringMethods\bin\Debug\net8.0\StringMethods.exe
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\StringMethods\bin\Debug\net8.0\StringMethods.deps.json
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\StringMethods\bin\Debug\net8.0\StringMethods.runtimeconfig.json
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\StringMethods\bin\Debug\net8.0\StringMethods.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\StringMethods\bin\Debug\net8.0\StringMethods.pdb
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\StringMethods\obj\Debug\net8.0\StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\StringMethods\obj\Debug\net8.0\StringMethods.AssemblyInfoInputs.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\StringMethods\obj\Debug\net8.0\StringMethods.AssemblyInfo.cs
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\StringMethods\obj\Debug\net8.0\StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\StringMethods\obj\Debug\net8.0\StringMethods.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\StringMethods\obj\Debug\net8.0\refint\StringMethods.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\StringMethods\obj\Debug\net8.0\StringMethods.pdb
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\StringMethods\obj\Debug\net8.0\StringMethods.genruntimeconfig.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\StringMethods\obj\Debug\net8.0\ref\StringMethods.dll
